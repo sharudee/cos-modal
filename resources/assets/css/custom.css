@@ -1,0 +1,39 @@
+.container-fluid
+{
+	padding-left:0px;
+	padding-right:0px;
+	
+}
+.navbar
+{
+	margin-bottom: 0px;
+}
+ul.navbar-nav li
+{
+	font-size: 14px
+}
+
+div.inline-col 
+{
+	padding-left: 1px;
+	padding-right: 1px;
+}
+
+div.input-group
+{
+
+	padding-left: 15px;
+}
+.panel-body {
+  padding: 5px;
+}
+.panel {
+  margin-bottom: 0px;
+  background-color: transparent;
+  /*border: 1px solid ;
+  border-radius: none;
+  box-shadow: none;
+  */
+  font-size: 11px
+}
+
